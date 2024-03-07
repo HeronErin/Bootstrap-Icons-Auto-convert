@@ -1,0 +1,7 @@
+./icons
+./icons/*
+./svg2android
+./svg2android/*
+node_modules
+package.json
+package-lock.json

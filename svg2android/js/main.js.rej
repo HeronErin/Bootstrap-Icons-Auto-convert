@@ -1,0 +1,37 @@
+*** /dev/null
+--- /dev/null
+***************
+*** 115,146
+- if (typeof FileReader === "undefined") {
+-     $('#dropzone, #dropzone-dialog').hide();
+-     $('#compat-error').show();
+- } else {
+-     $('#dropzone, #dropzone-dialog').fileReaderJS(fileReaderOpts);
+- }
+- 
+- if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1){
+-     localStorage.bakeTransforms = false;
+-     $(".bake-transforms").prop("disabled", true);
+-     alert("Sorry but svg2android doesn't work well on Firefox, please use Google Chrome or other browser for now.");
+- }
+- 
+- //Copy settings to dialog
+- var dlg = $('#dlg-files');
+- dlg.find('.modal-body').html($("#settings-area").clone());
+- 
+- //Clipboard paste event
+- $("body").bind("paste", function(e) {
+-     var pastedData = e.originalEvent.clipboardData.getData('text');
+-     if (pastedData.length > 0) {
+-         groupData.groupSize = 1;
+-         refreshSettings();
+-         parseSingleFile(pastedData);
+-     }
+- });
+- 
+- $("#deprecation-text").on("click", function (ev) {
+- 	ev.stopPropagation();
+- });
+- 
+- showLastUpdate("svg2android");
+--- 0 -----

@@ -1,0 +1,1 @@
+<b>Warning:</b> transforms on path are not supported, use option <i>Bake transforms into path</i>

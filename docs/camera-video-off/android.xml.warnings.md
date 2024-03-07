@@ -1,0 +1,1 @@
+<b>Warning:</b> found attribute 'fill-rule:evenodd' which is supported only on Android API 24 and higher - (<a target='_blank' href='https://github.com/inloop/svg2android/issues/44'>more info</a>)

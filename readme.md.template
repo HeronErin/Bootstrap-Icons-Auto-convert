@@ -1,0 +1,29 @@
+<a href="https://github.com/HeronErin/Bootstrap-Icons-Auto-convert"> <h1>Bootstrap-Icons-Auto-convert</h1> </a>
+
+All the bootstrap icons you love, under the same MIT License you love, in all the formats you could want. Hosted for you one the github CDN.
+
+## How do I use this?
+
+Get the name of the Icon you want and use one of the following url variations:
+
+```
+  https://icon.librelearn.eu.org/NAME/1024.png
+  https://icon.librelearn.eu.org/NAME/128.png
+  https://icon.librelearn.eu.org/NAME/16.png
+  https://icon.librelearn.eu.org/NAME/2048.png
+  https://icon.librelearn.eu.org/NAME/256.png
+  https://icon.librelearn.eu.org/NAME/32.png
+  https://icon.librelearn.eu.org/NAME/512.png
+  https://icon.librelearn.eu.org/NAME/64.png
+  https://icon.librelearn.eu.org/NAME/8.png
+  https://icon.librelearn.eu.org/NAME/android.xml
+  https://icon.librelearn.eu.org/NAME/icon.svg
+
+EX:
+  https://icon.librelearn.eu.org/eraser-fill/1024.png
+
+In addition to png, you can also use webp, jpg, ps, and pdf. Each with the full resolution support
+```
+
+All the icons we support:
+

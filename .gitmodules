@@ -1,0 +1,6 @@
+[submodule "icons"]
+	path = icons
+	url = https://github.com/twbs/icons
+[submodule "svg2android"]
+	path = svg2android
+	url = https://github.com/inloop/svg2android.git

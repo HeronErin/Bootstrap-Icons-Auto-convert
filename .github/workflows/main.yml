@@ -1,0 +1,32 @@
+name: Convert svgs
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Run every week on Sunday at midnight
+  workflow_dispatch:
+
+jobs:
+  clone:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # Set fetch-depth to 0 for a full clone
+        submodules: 'recursive'  # Enable recursive cloning for submodules
+    - name: Install dependancies
+      run: sh setup.sh
+    - name: Run the python script
+      run: python main.py
+      
+    - name: Gen index file
+      run: pandoc -f markdown readme.md > docs/index.html
+
+    - name: Login
+      run: git config --global user.name "actions-user" && git config --local user.email "actions@github.com"
+
+    - name: Commit changes
+      run: git add . && git commit -am "Auto run at $(date)" | true
+
+    - name: Push changes
+      run: git push | true
