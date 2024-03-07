@@ -1,33 +1,35 @@
-# Bootstrap-Icons-Auto-convert
-<a href="https://github.com/HeronErin/Bootstrap-Icons-Auto-convert"> Click here for the github </a> <br>
-<a href="https://icon.librelearn.eu.org"> Click here for the website </a>
+# Bootstrap Icons Auto-convert
 
-All the bootstrap icons you love, under the same MIT License you love, in all the formats you could want. Hosted for you one the github CDN.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-brightgreen.svg)](https://github.com/HeronErin/Bootstrap-Icons-Auto-convert)
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue.svg)](https://icon.librelearn.eu.org)
 
-## How do I use this?
+All your favorite Bootstrap icons, conveniently available under the familiar MIT License, and in a variety of formats. Hosted for you on the GitHub CDN.
+Every Bootstrap icon is supported. And new ones are updated every week automaticlly. There is no reason not to use it!
 
-Get the name of the Icon you want and use one of the following url variations:
+## How to Use
 
-```
-  https://icon.librelearn.eu.org/NAME/1024.png
-  https://icon.librelearn.eu.org/NAME/128.png
-  https://icon.librelearn.eu.org/NAME/16.png
-  https://icon.librelearn.eu.org/NAME/2048.png
-  https://icon.librelearn.eu.org/NAME/256.png
-  https://icon.librelearn.eu.org/NAME/32.png
-  https://icon.librelearn.eu.org/NAME/512.png
-  https://icon.librelearn.eu.org/NAME/64.png
-  https://icon.librelearn.eu.org/NAME/8.png
-  https://icon.librelearn.eu.org/NAME/android.xml
-  https://icon.librelearn.eu.org/NAME/icon.svg
+Obtain the name of the icon you desire and utilize one of the following URL variations:
 
-EX:
-  https://icon.librelearn.eu.org/eraser-fill/1024.png
+- [https://icon.librelearn.eu.org/123/1024.png](https://icon.librelearn.eu.org/NAME/1024.png)
+- [https://icon.librelearn.eu.org/123/128.png](https://icon.librelearn.eu.org/NAME/128.png)
+- [https://icon.librelearn.eu.org/123/16.png](https://icon.librelearn.eu.org/NAME/16.png)
+- [https://icon.librelearn.eu.org/123/2048.png](https://icon.librelearn.eu.org/NAME/2048.png)
+- [https://icon.librelearn.eu.org/123/256.png](https://icon.librelearn.eu.org/NAME/256.png)
+- [https://icon.librelearn.eu.org/123/32.png](https://icon.librelearn.eu.org/NAME/32.png)
+- [https://icon.librelearn.eu.org/123/512.png](https://icon.librelearn.eu.org/NAME/512.png)
+- [https://icon.librelearn.eu.org/123/64.png](https://icon.librelearn.eu.org/NAME/64.png)
+- [https://icon.librelearn.eu.org/123/8.png](https://icon.librelearn.eu.org/NAME/8.png)
+- [https://icon.librelearn.eu.org/123/android.xml](https://icon.librelearn.eu.org/NAME/android.xml)
+- [https://icon.librelearn.eu.org/123/icon.svg](https://icon.librelearn.eu.org/NAME/icon.svg)
 
-In addition to png, you can also use webp, jpg, ps, and pdf. Each with the full resolution support
-```
+Example:
+[https://icon.librelearn.eu.org/eraser-fill/1024.png](https://icon.librelearn.eu.org/eraser-fill/1024.png)
 
-All the icons we support:
+In addition to PNG, you can also use WebP, JPG, PS, and PDF, each with full resolution support.
+
+## Supported Icons
+
+
 
 <h3>6-circle-fill:</h3>
 <img width="128" src="https://icon.librelearn.eu.org/6-circle-fill/128.webp">
@@ -6179,4 +6181,4 @@ All the icons we support:
 <h3>arrow-down-right-circle-fill:</h3>
 <img width="128" src="https://icon.librelearn.eu.org/arrow-down-right-circle-fill/128.webp">
 <br>
-<br><sup>Last generated at Thu Mar  7 01:12:47 2024</sup>
+<br><sup>Last generated at Thu Mar  7 01:19:21 2024</sup>
