@@ -65,7 +65,7 @@ def main():
 	for icon in os.listdir(os.path.join("icons", "icons")):
 		name = os.path.splitext(icon)[0]
 		f.write("<h3>"+name + ":</h3>\n")
-		f.write(f"<img width=\"128\" src=\"https://raw.githubusercontent.com/HeronErin/Bootstrap-Icons-Auto-convert/main/docs/{name}/128.png\">\n<br>\n")
+		f.write(f"<img width=\"128\" src=\"https://icon.librelearn.eu.org/{name}/128.webp\">\n<br>\n")
 	f.write("<br><sup>Last generated at "+time.ctime()+"</sup>")
 	f.close()
 
