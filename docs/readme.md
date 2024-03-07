@@ -1,5 +1,5 @@
 # Bootstrap-Icons-Auto-convert
-<a href="https://github.com/HeronErin/Bootstrap-Icons-Auto-convert"> Click here for the github </a>
+<a href="https://github.com/HeronErin/Bootstrap-Icons-Auto-convert"> Click here for the github </a> <br>
 <a href="https://icon.librelearn.eu.org"> Click here for the website </a>
 
 All the bootstrap icons you love, under the same MIT License you love, in all the formats you could want. Hosted for you one the github CDN.
@@ -6179,4 +6179,4 @@ All the icons we support:
 <h3>arrow-down-right-circle-fill:</h3>
 <img width="128" src="https://raw.githubusercontent.com/HeronErin/Bootstrap-Icons-Auto-convert/main/docs/arrow-down-right-circle-fill/128.png">
 <br>
-<br><sup>Last generated at Thu Mar  7 01:05:18 2024</sup>
+<br><sup>Last generated at Thu Mar  7 01:06:29 2024</sup>
